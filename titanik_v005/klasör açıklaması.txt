@@ -1,0 +1,4 @@
+tarih: 07.06.20
+açıklama: halis'le yaptığımız titanik alıştırması
+
+bu versiyonda train dosyasını iki parçaya ayırıp eğittiğimiz model ile 0.33'lük kısmın accurancy'sini test ettik. 0.75 gibi bir başarı çıktı.

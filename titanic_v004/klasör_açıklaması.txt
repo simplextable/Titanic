@@ -1,0 +1,1 @@
+açıklama: titanic'i github'a yüklemek için oluşturduğumuz versiyonu
